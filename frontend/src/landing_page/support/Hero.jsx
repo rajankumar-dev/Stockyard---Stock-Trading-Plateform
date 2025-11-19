@@ -10,14 +10,14 @@ function Hero() {
       <div className="row p-5 m-3">
         <div className="col-6 p-3">
           <h1 className="fs-3">
-            Search for an answer or browse help topics to create a ticket
+            Search for an Answer or Browse help topics to create a ticket
           </h1>
           <input placeholder="Eg. how do I activate F&O" />
           <br />
-          <a href="">Track account opening</a>
-          <a href="">Track segment activation</a>
-          <a href="">Intraday margins</a>
-          <a href="">Kite user manual</a>
+          <a href="">Track Account Opening</a>
+          <a href="">Track Segment Activation</a>
+          <a href="">Intraday Margins</a>
+          <a href="">Kite User Manual</a>
         </div>
         <div className="col-6 p-3">
           <h1 className="fs-3">Featured</h1>

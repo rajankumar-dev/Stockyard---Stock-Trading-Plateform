@@ -9,23 +9,23 @@ function CreateTicket() {
           <h4 className="">
             <i class="fa fa-plus-circle" aria-hidden="true"></i> Account Opening
           </h4>
-          <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
+          <a href="" style={{ textDecoration: "none", lineHeight: "2.4" }}>
             Online Account Opening
           </a>
           <br />
-          <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
+          <a href="" style={{ textDecoration: "none", lineHeight: "2.4" }}>
             Offline Account Opening
           </a>
           <br />
-          <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
+          <a href="" style={{ textDecoration: "none", lineHeight: "2.4" }}>
             Company, Partnership and HUF Account
           </a>
           <br />
-          <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
+          <a href="" style={{ textDecoration: "none", lineHeight: "2.4" }}>
             Opening
           </a>
           <br />
-          <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
+          <a href="" style={{ textDecoration: "none", lineHeight: "2.4" }}>
             NRI Account Opening
           </a>
           <br />
@@ -163,7 +163,7 @@ function CreateTicket() {
             <i class="fa-solid fa-coins"></i> Coin
           </h4>
           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
-            Mutual funds
+            Mutual Funds
           </a>
           <br />
           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
